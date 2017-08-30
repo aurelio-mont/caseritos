@@ -1,7 +1,7 @@
 <?php
 
 
-  $conn = new mysqli('127.0.0.1','root','root','app_laravel');
+  $conn = new mysqli('127.0.0.1','root','root','caseritos');
 
   if (mysqli_connect_errno())
   {
