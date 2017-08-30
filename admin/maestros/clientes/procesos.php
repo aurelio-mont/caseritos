@@ -11,7 +11,7 @@
         if ($respuesta->num_rows > 0) {
             while ($row = $respuesta->fetch_assoc()) {
                 // $data[] = $row;
-
+                
             array_push($arr['data'],array(
                 $row['documentoCliente'],
                 $row['Nombre'],
