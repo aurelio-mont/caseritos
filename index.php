@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
 	<meta charset="UTF-8">
 	<title>Caseritos Admin</title>
@@ -24,9 +24,9 @@
         <button class="btn btn-success btn-block">Iniciar Sesión</button>
     </form>
 </div>
+
 </body>
 <script src="js/jquery.js"></script>
 <script src="js/bootstrap.js"></script>
 <script src="js/main.js"></script>
 </html>
-

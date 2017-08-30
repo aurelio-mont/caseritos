@@ -1,6 +1,6 @@
-<nav class="navbar navbar-default ">
-  <div class="container-fluid">
-    <div class="navbar-header">
+<nav class="navbar navbar-default " >
+  <div class="container-fluid" style="margin-left:3%;">
+    <div class="navbar-header" style="margin-right:3%;">
       <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
         <span class="icon-bar"></span>
@@ -10,7 +10,7 @@
       <a class="navbar-brand" href="#">Caseritos Admin</a>
     </div>
 
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" >
       <ul class="nav navbar-nav">
       <li class="active"><a href="#">DashBoard <span class="sr-only">(current)</span></a></li>
       	<li class="dropdown">
@@ -27,7 +27,8 @@
             <li><a href="#">Productos</a></li>
             <li><a href="#">lineas</a></li>
             <li><a href="#">Sub-Lineas</a></li>
-            <li><a href="#">Categorias</a></li>
+            <li><a href="#">Presentaciones</a></li>
+
           </ul>
         </li>
         <li class="dropdown">
@@ -55,13 +56,12 @@
             <li><a href="#">Inventario General</a></li>
             <li><a href="#">Entradas</a></li>
             <li><a href="#">Salidas</a></li>
-
+            <li><a href="#">Conteo Fisico</a></li>
           </ul>
         </li>
-        
       </ul>
-      <
-      <ul class="nav navbar-nav navbar-right">
+
+      <ul class="nav navbar-nav navbar-right" style="margin-right:3%;">
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Usuario <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
